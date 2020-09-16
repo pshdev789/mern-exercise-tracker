@@ -5,6 +5,6 @@ import { BrowserRouter as Router,Route }from "react-router-dom";
 
 ReactDOM.render(
 
-  <App/>, document.getElementById('root')
+  < App/>, document.getElementById('root')
 );
 
